@@ -1,0 +1,1 @@
+Github ссылка https://github.com/aaRomanets/photo-collections-docker-github.git
